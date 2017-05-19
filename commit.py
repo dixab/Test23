@@ -1,4 +1,4 @@
-class Commit(object):
+fsdfsdfclass Commit(object):
 
     __sha=None
     __message=None
